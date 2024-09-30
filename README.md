@@ -1,4 +1,4 @@
-# GCE Hacktoberfest Backend SnapLink
+# GCE Hacktoberfest 1.0 Backend SnapLink
 
 ****
 
